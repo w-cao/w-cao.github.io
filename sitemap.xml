@@ -1,0 +1,58 @@
+<?xml-stylesheet type="text/xsl" href="http://caosiyuan.top/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://caosiyuan.top/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2019-10-23T18:36:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/post/</loc>
+    <lastmod>2019-10-23T18:36:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/</loc>
+    <lastmod>2019-10-23T18:36:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2019-10-23T10:54:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
+    <lastmod>2019-10-21T10:52:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caosiyuan.top/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

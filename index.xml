@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客</title>
+    <link>http://caosiyuan.top/</link>
+    <description>Recent content on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Oct 2019 18:36:44 +0800</lastBuildDate>
+    
+        <atom:link href="http://caosiyuan.top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://caosiyuan.top/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/about/</guid>
+      
+        <description>&lt;p&gt;同学你好&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>HTML常用标签</title>
+      <link>http://caosiyuan.top/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Wed, 23 Oct 2019 18:36:44 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;a-标签&#34;&gt;a 标签&lt;/h1&gt;
+
+&lt;h2 id=&#34;a-标签的属性和作用&#34;&gt;a 标签的属性和作用&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;属性&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;href&lt;/li&gt;
+&lt;li&gt;target&lt;/li&gt;
+&lt;li&gt;download&lt;/li&gt;
+&lt;li&gt;rel=noopener&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;跳转外部页面&lt;/li&gt;
+&lt;li&gt;跳转内部锚点&lt;/li&gt;
+&lt;li&gt;跳转到邮箱或电话等&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a的href的取值&#34;&gt;a的href的取值&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;网址&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.com&#34;&gt;https://google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://google.com&#34;&gt;http://google.com&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;//google.com&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;路径&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;/a/b/c 以及 a/b/c&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;index.html 以及 ./index.html&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;伪协议&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;javascript:代码;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mailto:邮箱&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tel:手机号&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;id&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[x] href=#xxx&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a的target的取值&#34;&gt;a的target的取值&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;内置名字&lt;/li&gt;
+&lt;li&gt;_blank&lt;/li&gt;
+&lt;li&gt;_top&lt;/li&gt;
+&lt;li&gt;_parent&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;_self&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;程序远命名&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;window的name&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;iframe的name&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a的download&#34;&gt;a的download&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;作用&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[x] 不是打开页面, 而是下载页面&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;问题&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[x] 不是所有浏览器都支持, 尤其是手机浏览器可能不支持&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;table-标签&#34;&gt;table 标签&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;相关的标签&lt;/li&gt;
+&lt;li&gt;table&lt;/li&gt;
+&lt;li&gt;thead&lt;/li&gt;
+&lt;li&gt;tbody&lt;/li&gt;
+&lt;li&gt;tfoot&lt;/li&gt;
+&lt;li&gt;tr&lt;/li&gt;
+&lt;li&gt;td&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;th&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;相关的样式&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;table-layout&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;border-collapse&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;border-spacing&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;img-标签&#34;&gt;img 标签&lt;/h1&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 发出get请求, 展示一张图片&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;属性&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; alt/height/width/src&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;事件&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; onload/onerror&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;响应式&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; max-width:100%&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/zh-CN/docs/Web/CSS/Replaced_element&#34;&gt;可替换的元素&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;form-标签&#34;&gt;form 标签&lt;/h1&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 发get或post请求, 然后刷新页面&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/form&#34;&gt;属性&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;事件&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; onsubmit&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;input-标签&#34;&gt;input 标签&lt;/h1&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 让用户输入内容&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;属性&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 类型type: button/checkbox/email/file/hidden
+/number/password/radio/search/submit/tel/text&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 其他name/autofocus/checked/disabled/maxlength/pattern/value/placeholder&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;事件&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; onchange/onfocus/onblur&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;验证器&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; HTML5新增功能&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;其他输入标签&#34;&gt;其他输入标签&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;标签&lt;/li&gt;
+&lt;li&gt;select + option&lt;/li&gt;
+&lt;li&gt;textarea&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;label&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;注意事项&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;一般不监听input的click事件&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;form里面的input要有name&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;form里面放一个type=submit才能触发submit事件&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;其他标签&#34;&gt;其他标签&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;标签&lt;/li&gt;
+&lt;li&gt;video&lt;/li&gt;
+&lt;li&gt;audio&lt;/li&gt;
+&lt;li&gt;canvas&lt;/li&gt;
+&lt;li&gt;svg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;开发规范-感想&#34;&gt;开发规范(感想)&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;使用server调试html代码&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;yarn global add parcel 运行 parcel demo.html&lt;/li&gt;
+&lt;li&gt;yarn global add http-server 运行 hs -c-1&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>HTML入门笔记</title>
+      <link>http://caosiyuan.top/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 23 Oct 2019 10:54:36 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;html-是谁发明的&#34;&gt;HTML 是谁发明的？&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tim_Berners-Lee&#34;&gt;Tim Berners-Lee&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;html-起手应该写什么&#34;&gt;HTML 起手应该写什么？&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Emmet 感叹号
+&lt;img src=&#34;http://caosiyuan.top/images/0.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;常用的表章节的标签有哪些-分别是什么意思-h1-h6-section-article-main-aside-等等&#34;&gt;常用的表章节的标签有哪些，分别是什么意思？（h1~h6、section、article、main、aside 等等）&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;h1~h6 标题&lt;/li&gt;
+&lt;li&gt;section 章节&lt;/li&gt;
+&lt;li&gt;article 文章&lt;/li&gt;
+&lt;li&gt;p 段落&lt;/li&gt;
+&lt;li&gt;header 头部&lt;/li&gt;
+&lt;li&gt;footer 脚部&lt;/li&gt;
+&lt;li&gt;main 主要内容&lt;/li&gt;
+&lt;li&gt;aside 旁支内容&lt;/li&gt;
+&lt;li&gt;div 划分&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;全局属性有哪些&#34;&gt;全局属性有哪些？&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;class&lt;/li&gt;
+&lt;li&gt;contenteditable&lt;/li&gt;
+&lt;li&gt;hidden&lt;/li&gt;
+&lt;li&gt;id&lt;/li&gt;
+&lt;li&gt;style&lt;/li&gt;
+&lt;li&gt;tabindex&lt;/li&gt;
+&lt;li&gt;title&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;常用的内容标签有哪些-分别是什么意思-a-strong-em-code-pre-等等&#34;&gt;常用的内容标签有哪些，分别是什么意思?（a、strong、em、code、pre 等等）&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ol + li (orderd list + list item)&lt;/li&gt;
+&lt;li&gt;ul + li (unordered list + list item)&lt;/li&gt;
+&lt;li&gt;dl + dt +dd (description list + term + data)&lt;/li&gt;
+&lt;li&gt;pre (preview的缩写)&lt;/li&gt;
+&lt;li&gt;hr&lt;/li&gt;
+&lt;li&gt;br (break的缩写)&lt;/li&gt;
+&lt;li&gt;a (anchor的缩写)&lt;/li&gt;
+&lt;li&gt;em (emphasis的缩写, 语气上强调)&lt;/li&gt;
+&lt;li&gt;strong (内容上强调)&lt;/li&gt;
+&lt;li&gt;code&lt;/li&gt;
+&lt;li&gt;q (quote的缩写)&lt;/li&gt;
+&lt;li&gt;blockquote
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;常见的css-reset&#34;&gt;常见的css reset&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;回头上代码&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>开博大吉</title>
+      <link>http://caosiyuan.top/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Mon, 21 Oct 2019 10:52:33 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;大家好&#34;&gt;大家好&lt;/h1&gt;
+
+&lt;p&gt;我的博客开通了，希望我能写出好文章给大家看。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的博客</title>
+    <link>http://caosiyuan.top/post/</link>
+    <description>Recent content in Posts on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Oct 2019 18:36:44 +0800</lastBuildDate>
+    
+	<atom:link href="http://caosiyuan.top/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML常用标签</title>
+      <link>http://caosiyuan.top/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Wed, 23 Oct 2019 18:36:44 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</guid>
+      <description>a 标签 a 标签的属性和作用 属性 href target download rel=noopener 作用 跳转外部页面 跳转内部锚点 跳转到邮箱或电话等 a的href的取值 网址 https://google.com http://google.com //google.com 路径 /a/b/c 以及 a/b/c index.html 以及 ./index.html 伪协议 ja</description>
+    </item>
+    
+    <item>
+      <title>HTML入门笔记</title>
+      <link>http://caosiyuan.top/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 23 Oct 2019 10:54:36 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</guid>
+      <description>HTML 是谁发明的？ Tim Berners-Lee HTML 起手应该写什么？ Emmet 感叹号 常用的表章节的标签有哪些，分别是什么意思？（h1~h6、section、article、main</description>
+    </item>
+    
+    <item>
+      <title>开博大吉</title>
+      <link>http://caosiyuan.top/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Mon, 21 Oct 2019 10:52:33 +0800</pubDate>
+      
+      <guid>http://caosiyuan.top/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
+    </item>
+    
+  </channel>
+</rss>
