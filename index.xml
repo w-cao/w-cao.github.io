@@ -48,35 +48,53 @@
 &lt;/ol&gt;
 
 &lt;ul&gt;
-&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;作用
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;跳转外部页面&lt;/li&gt;
 &lt;li&gt;跳转内部锚点&lt;/li&gt;
 &lt;li&gt;跳转到邮箱或电话等&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&#34;a的href的取值&#34;&gt;a的href的取值&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;网址&lt;/li&gt;
+&lt;li&gt;网址
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://google.com&#34;&gt;https://google.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://google.com&#34;&gt;http://google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;//google.com
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;//google.com&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;路径
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;&lt;p&gt;路径&lt;/p&gt;&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;/a/b/c 以及 a/b/c&lt;/li&gt;
+&lt;li&gt;index.html 以及 ./index.html&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;/a/b/c 以及 a/b/c&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;伪协议
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;&lt;p&gt;index.html 以及 ./index.html&lt;/p&gt;&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;javascript:代码;&lt;/li&gt;
+&lt;li&gt;mailto:邮箱&lt;/li&gt;
+&lt;li&gt;tel:手机号
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;伪协议&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;javascript:代码;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;mailto:邮箱&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tel:手机号&lt;/p&gt;&lt;/li&gt;
-
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;id&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;[x] href=#xxx&lt;/p&gt;&lt;/li&gt;
@@ -85,24 +103,32 @@
 &lt;h2 id=&#34;a的target的取值&#34;&gt;a的target的取值&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;内置名字&lt;/li&gt;
+&lt;li&gt;内置名字
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;_blank&lt;/li&gt;
 &lt;li&gt;_top&lt;/li&gt;
 &lt;li&gt;_parent&lt;/li&gt;
+&lt;li&gt;_self&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;_self&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;程序远命名&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;window的name&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;iframe的name&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;程序远命名
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;window的name&lt;/li&gt;
+&lt;li&gt;iframe的name
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&#34;a的download&#34;&gt;a的download&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;作用&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;作用&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;[x] 不是打开页面, 而是下载页面&lt;/p&gt;&lt;/li&gt;
 
@@ -114,24 +140,30 @@
 &lt;h1 id=&#34;table-标签&#34;&gt;table 标签&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;相关的标签&lt;/li&gt;
+&lt;li&gt;相关的标签
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;table&lt;/li&gt;
 &lt;li&gt;thead&lt;/li&gt;
 &lt;li&gt;tbody&lt;/li&gt;
 &lt;li&gt;tfoot&lt;/li&gt;
 &lt;li&gt;tr&lt;/li&gt;
 &lt;li&gt;td&lt;/li&gt;
+&lt;li&gt;th&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;th&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;相关的样式&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;table-layout&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;border-collapse&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;border-spacing&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;相关的样式
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;table-layout&lt;/li&gt;
+&lt;li&gt;border-collapse&lt;/li&gt;
+&lt;li&gt;border-spacing&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h1 id=&#34;img-标签&#34;&gt;img 标签&lt;/h1&gt;
 
@@ -175,30 +207,40 @@
 &lt;h1 id=&#34;其他输入标签&#34;&gt;其他输入标签&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;标签&lt;/li&gt;
+&lt;li&gt;标签
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;select + option&lt;/li&gt;
 &lt;li&gt;textarea&lt;/li&gt;
+&lt;li&gt;label
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;label&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注意事项&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;一般不监听input的click事件&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;form里面的input要有name&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;form里面放一个type=submit才能触发submit事件&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;注意事项
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;一般不监听input的click事件&lt;/li&gt;
+&lt;li&gt;form里面的input要有name&lt;/li&gt;
+&lt;li&gt;form里面放一个type=submit才能触发submit事件&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h1 id=&#34;其他标签&#34;&gt;其他标签&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;标签&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
 &lt;li&gt;video&lt;/li&gt;
 &lt;li&gt;audio&lt;/li&gt;
 &lt;li&gt;canvas&lt;/li&gt;
 &lt;li&gt;svg&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;h1 id=&#34;开发规范-感想&#34;&gt;开发规范(感想)&lt;/h1&gt;
 
